@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/ChagasF">
-  <img height="180em" width="" src="https://github-readme-stats.vercel.app/api?username=ChagasF&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&theme=onedark"/>
-  <img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChagasF&layout=compact&langs_count=8&show_icons=true&theme=onedark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChagasF&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&theme=onedark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChagasF&layout=compact&langs_count=8&show_icons=true&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Chagas_HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
