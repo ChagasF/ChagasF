@@ -1,6 +1,6 @@
 ## Olá, eu sou o Chagas!
 
-<div>
+<div align="center">
   <a href="https://github.com/ChagasF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChagasF&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&theme=onedark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChagasF&layout=compact&langs_count=8&show_icons=true&theme=onedark"/>
